@@ -1,8 +1,10 @@
-2019�@6/24 �y����23����z�}�����̃��[������Y�C���X�p�C�A�n��H�׃��O�]�����ɂ܂Ƃ߂Ă݂��y�����L���O�z
+2019　6/24 【東京23区内】急増中のラーメン二郎インスパイア系を食べログ評価順にまとめてみた【ランキング】
 https://matome.naver.jp/odai/2138357962148905001
-2019 6/24 �y��Y�n�z�s���đ��͂Ȃ���Y�C���X�p�C�A�̂܂Ƃ�
+2019 6/24 【二郎系】行って損はない二郎インスパイアのまとめ
 https://tabelog.com/matome/1806/
-2019 6/24 �S�����[������Y�܂Ƃ߁E�S�S�O�X��
+2019 6/24 全国ラーメン二郎まとめ・全４０店舗
 http://media.takumen.com/jiro-matome
-2019 6/24 Python��Google�̉摜���ʃX�N���[�v����
+2019 6/24 PythonでGoogleの画像を大量スクレープする
 https://qiita.com/Jixjia/items/881c03c50c6f07b0b6ab
+ディープラーニングでラーメン二郎(全店舗)を識別してみた
+https://www.slideshare.net/knjcode/ml1517-81310584
