@@ -8,3 +8,6 @@ http://media.takumen.com/jiro-matome
 https://qiita.com/Jixjia/items/881c03c50c6f07b0b6ab
 ディープラーニングでラーメン二郎(全店舗)を識別してみた
 https://www.slideshare.net/knjcode/ml1517-81310584
+
+参考論文　2019
+http://www.nlab.ci.i.u-tokyo.ac.jp/pdf/CNN_survey.pdf
