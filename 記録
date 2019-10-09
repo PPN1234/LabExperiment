@@ -4,3 +4,4 @@ GPU関係install
 設定して
 ２行で確認
 何かあったらまた聞いてもいいかも
+のCUDAとCudnnとtensorflow-gpu
