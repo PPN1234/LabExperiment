@@ -5,3 +5,6 @@ GPU関係install
 ２行で確認
 何かあったらまた聞いてもいいかも
 のCUDAとCudnnとtensorflow-gpu
+
+
+python scr.py -s ワード -n 100 -o ./
